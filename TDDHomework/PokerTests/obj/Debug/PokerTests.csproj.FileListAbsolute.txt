@@ -1,0 +1,9 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\bin\Debug\PokerTests.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\bin\Debug\PokerTests.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\bin\Debug\nunit.framework.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\bin\Debug\Poker.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\bin\Debug\Poker.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\bin\Debug\nunit.framework.xml
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\obj\Debug\PokerTests.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\obj\Debug\PokerTests.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\PokerTests\obj\Debug\PokerTests.pdb

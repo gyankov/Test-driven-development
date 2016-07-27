@@ -1,0 +1,2 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\Poker\bin\Debug\Poker.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\TDDHomework\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
